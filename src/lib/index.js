@@ -1,1 +1,3 @@
-// Reexport your entry components here
+import {validateAndEnhance} from './validate-and-enhance'
+
+export {validateAndEnhance};
